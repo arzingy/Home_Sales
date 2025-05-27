@@ -6,6 +6,9 @@ The challenge involved answering key questions about home prices based on variou
 
 The code can be found in the [`Home_Sales.ipynb`](Home_Sales.ipynb) file.
 
+Partitioned files are not included in this repository to reduce storage requirements.
+If needed, they can be regenerated using the provided scripts.
+
 ## Results and Runtime Comparisons
 The runtimes for the query calculating average home price per "view" rating (≥ $350,000) were as follows:
 
